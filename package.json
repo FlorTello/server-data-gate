@@ -1,0 +1,26 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "\"Mock server\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlorTello/server-data-gate.git"
+  },
+  "keywords": [
+    "nodejs",
+    "heroku"
+  ],
+  "author": "Flor Tello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlorTello/server-data-gate/issues"
+  },
+  "homepage": "https://github.com/FlorTello/server-data-gate#readme",
+  "dependencies": {
+    "json-server": "^0.15.0"
+  }
+}

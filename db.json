@@ -1,0 +1,132 @@
+{
+    "manage": [
+      {
+        "id": 1,
+        "key_name": "user_id",
+        "description": "Contains the primary key used to identify a user of the systems",
+        "type": "integer",
+        "possible_values": [
+          {
+            "value": "null",
+            "description": "Value when user is not found"
+          },
+          {
+            "value": "integer",
+            "description": "ID key of user"
+          },
+          {
+            "value": "null",
+            "description": "Value when user is not found"
+          },
+          {
+            "value": "integer",
+            "description": "ID key of user"
+          }
+        ],
+        "sensitivy": "This is personal data, and cannot be ...",
+        "flgSensitivy": null
+      },
+      {
+        "id": 2,
+        "key_name": "item_id",
+        "description": "Contains the primary key used to identify a user of the system",
+        "type": "integer",
+        "sensitivy": "This is personal data, and cannot be ...",
+        "flgSensitivy": false,
+        "possible_values": [
+          {
+            "value": "null",
+            "description": "Value when user is not found"
+          },
+          {
+            "value": "integer",
+            "description": "ID key of user"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "key_name": "user_email",
+        "description": "Contains the primary key used to identify a user of the system",
+        "type": "integer",
+        "sensitivy": "This is personal data, and cannot be ...",
+        "flgSensitivy": true,
+        "possible_values": [
+          {
+            "value": "null",
+            "description": "Value when user is not found"
+          },
+          {
+            "value": "integer",
+            "description": "ID key of user"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "key_name": "item_views",
+        "description": "Contains the primary key used to identify a user of the system",
+        "type": "integer",
+        "possible_values": [
+          {
+            "value": "null",
+            "description": "Value when user is not found"
+          },
+          {
+            "value": "integer",
+            "description": "ID key of user"
+          }
+        ],
+        "sensitivy": "This is personal data, and cannot be ...",
+        "flgSensitivy": true
+      },
+      {
+        "id": 5,
+        "key_name": "item_favorites",
+        "description": "Contains the primary key used to identify a user of the system",
+        "type": "integer",
+        "sensitivy": "This is personal data, and cannot be ...",
+        "flgSensitivy": true,
+        "possible_values": [
+          {
+            "value": "null",
+            "description": "Value when user is not found"
+          },
+          {
+            "value": "integer",
+            "description": "ID key of user"
+          }
+        ]
+      }
+    ],
+    "requests": [
+      {
+        "id": 1,
+        "date": "10-03-2019",
+        "reason": "Data science algorithms",
+        "status": "Pending",
+        "status_code": 1
+      },
+      {
+        "id": 2,
+        "date": "10-03-2019",
+        "reason": "Stakeholder dashboards",
+        "status": "Approved",
+        "status_code": 2
+      },
+      {
+        "id": 3,
+        "date": "10-03-2019",
+        "reason": "email blast",
+        "status": "Denied",
+        "status_code": 3
+      },
+      {
+        "id": 4,
+        "date": "10-03-2019",
+        "reason": "Investigation",
+        "status": "Pending",
+        "status_code": 1
+      }
+    ]
+  }
