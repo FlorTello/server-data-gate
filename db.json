@@ -104,7 +104,7 @@
 			},
 			"possible_values": [
 				{
-					"value": "null",
+					"value": "boolean",
 					"description": "Value when user is not found"
 				},
 				{
