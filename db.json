@@ -8,7 +8,7 @@
 			"sensitivity": {
 				"value": true,
 				"description": "This is personal data, and cannot be ...",
-				"question": "Is this personal data"
+				"question": "Is this personal data "
 			},
 			"possible_values": [
 				{
