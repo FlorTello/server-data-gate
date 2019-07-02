@@ -5,7 +5,7 @@
 			"key_name": "user_id",
 			"description": "Contains the primary key used to identify a user of the systems",
 			"type": "integer",
-			"sensitivy": {
+			"sensitivity": {
 				"value": true,
 				"description": "This is personal data, and cannot be ...",
 				"question": "Is this personal data"
@@ -34,7 +34,7 @@
 			"key_name": "item_id",
 			"description": "Contains the primary key used to identify a user of the system",
 			"type": "integer",
-			"sensitivy": {
+			"sensitivity": {
 				"value": true,
 				"description": "This is personal data, and cannot be ...",
 				"question": "Is this personal data"
@@ -55,7 +55,7 @@
 			"key_name": "user_email",
 			"description": "Contains the primary key used to identify a user of the system",
 			"type": "integer",
-			"sensitivy": {
+			"sensitivity": {
 				"value": true,
 				"description": "This is personal data, and cannot be ...",
 				"question": "Is this personal data"
@@ -76,7 +76,7 @@
 			"key_name": "item_views",
 			"description": "Contains the primary key used to identify a user of the system",
 			"type": "integer",
-			"sensitivy": {
+			"sensitivity": {
 				"value": true,
 				"description": "This is personal data, and cannot be ...",
 				"question": "Is this personal data"
@@ -97,7 +97,7 @@
 			"key_name": "item_favorites",
 			"description": "Contains the primary key used to identify a user of the system",
 			"type": "integer",
-			"sensitivy": {
+			"sensitivity": {
 				"value": true,
 				"description": "This is personal data, and cannot be ...",
 				"question": "Is this personal data"
